@@ -1,0 +1,6 @@
+graet = 10
+
+if graet == 10:
+    print("graet is equal to 10")
+else:
+    print("graet is not equal to 10")

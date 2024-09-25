@@ -1,0 +1,6 @@
+low = 10
+
+if lower == 10:
+    print("lower is equal to 10")
+else:
+    print("lower is not equal to 10")
